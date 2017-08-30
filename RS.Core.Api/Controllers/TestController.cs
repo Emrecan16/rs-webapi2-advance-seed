@@ -23,6 +23,8 @@ namespace RS.Core.Controllers
         {
             await _service.GetTest();
             return Ok();
+
+            //Test 
         }
     }
 }
